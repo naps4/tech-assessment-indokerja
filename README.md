@@ -105,6 +105,10 @@ Lihat `backend/prisma/schema.prisma` untuk detail lengkap. Ringkasan entitas:
 
 Lihat file [`API.md`](./API.md) untuk daftar lengkap endpoint.
 
+## Live Demo
+- Frontend: https://tech-assessment-indokerja.vercel.app
+- Backend API: https://tech-assessment-indokerja-production.up.railway.app
+
 ## Catatan
 
 Project ini dibuat dalam rangka Tech Assessment IndoKerja.id (Full Stack Developer), dengan fokus pada functional requirement, code quality, database design, API design, dan security sesuai spesifikasi yang diberikan.
